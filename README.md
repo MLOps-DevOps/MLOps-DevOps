@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MLOps-DevOps
-- 👀 I’m interested in Golang, Ml, Web_Dev
+- 👀 I’m interested in Golang, ML, Web_Dev
 - 🌱 I’m currently learning Golang and JavaScript
 - 💞️ I’m looking to collaborate on ML && Web_Dev
 - 📫 How to reach me: 
